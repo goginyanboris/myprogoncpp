@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1519862436 source:c:\users\alex\desktop\Прога\Лабы\lab1\cardl\card.cpp
+	"Card.h"
+	<stddef.h>
+	<cstring>
+	<iostream>
+
+1519859671 c:\users\alex\desktop\Прога\Лабы\lab1\cardl\card.h
+
+1519863338 source:c:\users\alex\desktop\Прога\Лабы\lab1\cardl\cardlist.cpp
+	"CardList.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1519862436 c:\users\alex\desktop\Прога\Лабы\lab1\cardl\cardlist.h
+	"Card.h"
+	<string>
+	<cstring>
+
+1519863435 source:c:\users\alex\desktop\Прога\Лабы\lab1\cardl\main.cpp
+	"CardList.h"
+	<iostream>
+	<Windows.h>
+
+1519862436 source:c:\users\alex\desktop\Прога\Лабы\lab1 +\cardl\card.cpp
+	"Card.h"
+	<stddef.h>
+	<cstring>
+	<iostream>
+
+1519859671 c:\users\alex\desktop\Прога\Лабы\lab1 +\cardl\card.h
+
+1519863338 source:c:\users\alex\desktop\Прога\Лабы\lab1 +\cardl\cardlist.cpp
+	"CardList.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1519862436 c:\users\alex\desktop\Прога\Лабы\lab1 +\cardl\cardlist.h
+	"Card.h"
+	<string>
+	<cstring>
+
+1519865261 source:c:\users\alex\desktop\Прога\Лабы\lab1 +\cardl\main.cpp
+	"CardList.h"
+	<iostream>
+	<Windows.h>
+
+1526476540 source:c:\users\boris\desktop\univer\mirea\c++\Мои наработки. Программы\laba 1\main.cpp
+	<Windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stddef.h>
+	<string>
+	<cstring>
+
+1526472961 c:\users\boris\desktop\univer\mirea\c++\Мои наработки. Программы\laba 1\cardlist.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stddef.h>
+	<string>
+	<cstring>
+

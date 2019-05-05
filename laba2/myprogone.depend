@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1524422155 source:c:\users\boris\desktop\univer\mirea\c++\Мои наработки. Программы\myprogone\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+	<string>
+	<cstring>
+	<set>
+	<map>
+
+1524965444 source:c:\users\boris\desktop\univer\mirea\c++\Мои наработки. Программы\laba2\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+	<string>
+	<cstring>
+	<set>
+	<map>
+	<clocale>
+

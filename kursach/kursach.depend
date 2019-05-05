@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527068460 source:c:\users\boris\desktop\univer\mirea\c++\Курсовая работа (№ 17)\kursach\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<cmath>
+	<string>
+	<cstring>
+	<cstdlib>
+	<complex>
+	<clocale>
+
